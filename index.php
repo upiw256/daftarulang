@@ -21,7 +21,7 @@
 <div class="row align-items-center">
     <div class="container">
         <div class="row justify-content-center">
-        <img class="mb-3 img-responsive" src="img/spanduk.jpg" alt="sepanduk ppdb" style="width:90%;height:90%;">
+        <img class="mb-3 mt-1 img-responsive" src="img/spanduk.jpg" alt="sepanduk ppdb" style="width:90%;height:90%;">
             
 
             <div class="col-7 bg-success rounded">
@@ -41,6 +41,7 @@
             <p class="fw-light text-light">- ini khusus untuk yang mendaftar ke SMAN 1 Margaasih</p>
             <p class="fw-light text-light">- Jika tidak mengetahui nomor pendaftaran silahkan buka <span class="badge bg-light"><a href="https://pendaftar.ppdb.disdik.jabarprov.go.id/" target="_blank" class="text-decoration-none">pendaftar.ppdb.jabarprov.go.id</a></span> lalu login</p>
             <p class="fw-light text-light">- Atau anda bisa membuka situs <span class="badge bg-light"><a href="https://ppdb.disdik.jabarprov.go.id/data-pendaftar/bandung/sma/negeri/608f7e1f19a57c0012556b6b" target="_blank" class="text-decoration-none">ppdb.jabarprov.go.id</a></span></p>
+            <p class="fw-light text-light">- Atau hubungi sekolah asal (SMP/MTs)</p>
             </div>
             <div class="row mt-2">
             <p class="text-center">© 2021 - SMAN 1 MARGAASIH</p>
